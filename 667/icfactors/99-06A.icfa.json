@@ -1,9 +1,61 @@
 {
     "AX": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 7.3174967356242e-05,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "omit",
+                "record_id": "c-03-J-377",
+                "uuid": "6dbcdf76-2bf3-4b53-8934-3a3b8d6fdeb3"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "c-03-J-378",
+                "uuid": "7a59fea1-ecfb-4552-9c66-144a327311eb"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "c-03-J-379",
+                "uuid": "799c44c5-85d4-4479-b046-90d98a365e91"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "c-03-J-380",
+                "uuid": "9a6732f2-8a58-403d-969d-367de7a20738"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-381",
+                "uuid": "c9b3abe8-951c-41b3-882a-bb77ae837747"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-382",
+                "uuid": "6e2b4975-8341-4d58-94ca-5300eac702a2"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-383",
+                "uuid": "10ddf5aa-988d-4f47-9ac2-59494750c084"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-384",
+                "uuid": "627c7390-cbce-4483-add3-435fa5a8606f"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-385",
+                "uuid": "ca0435e6-5d48-46b2-a792-f5a255e80f9e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "c-03-J-386",
+                "uuid": "e7179c18-7d66-46c1-ae94-b710f4ea66fa"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0019741272409857
     },
     "CDD": {
         "error": 0.0008486912569330298,
