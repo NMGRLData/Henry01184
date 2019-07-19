@@ -1,7 +1,7 @@
 {
     "AX": {
         "error": 0.00010282341309329452,
-        "fit": "Weighted Mean",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -165,42 +165,17 @@
             },
             {
                 "exclude": "ok",
-                "record_id": "c-03-J-380",
-                "uuid": "9a6732f2-8a58-403d-969d-367de7a20738"
+                "record_id": "c-03-J-365",
+                "uuid": "2e569e68-43dc-4225-a1d2-6c6d509d3249"
             },
             {
                 "exclude": "ok",
-                "record_id": "c-03-J-381",
-                "uuid": "c9b3abe8-951c-41b3-882a-bb77ae837747"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "c-03-J-382",
-                "uuid": "6e2b4975-8341-4d58-94ca-5300eac702a2"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "c-03-J-383",
-                "uuid": "10ddf5aa-988d-4f47-9ac2-59494750c084"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "c-03-J-384",
-                "uuid": "627c7390-cbce-4483-add3-435fa5a8606f"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "c-03-J-385",
-                "uuid": "ca0435e6-5d48-46b2-a792-f5a255e80f9e"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "c-03-J-386",
-                "uuid": "e7179c18-7d66-46c1-ae94-b710f4ea66fa"
+                "record_id": "c-03-J-366",
+                "uuid": "455fb4ae-f404-40a7-9ce0-da63852f3417"
             }
         ],
         "reviewed": true,
-        "value": 1.0010247392149803
+        "value": 1.0010247392149805
     },
     "CDD": {
         "error": 0.0008522901050279951,
